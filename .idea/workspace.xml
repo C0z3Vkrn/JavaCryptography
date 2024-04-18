@@ -42,6 +42,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 4
@@ -52,39 +55,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;22&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Projects/JavaCrypto/java-crypto-tools-src&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;库&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15136719&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;应用程序.CBCExample.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.FIPSDemo.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.KEMSExample.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.KeyConfExample.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ListProviderCapabilities.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ListProviders.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.PolicyFileCheck.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.PrecedenceDemo.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.chapter1.ListProviders.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "22",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Projects/JavaCrypto/java-crypto",
+    "project.structure.last.edited": "库",
+    "project.structure.proportion": "0.15136719",
+    "project.structure.side.proportion": "0.2",
+    "应用程序.CBCExample.executor": "Run",
+    "应用程序.FIPSDemo.executor": "Run",
+    "应用程序.KEMSExample.executor": "Run",
+    "应用程序.KeyConfExample.executor": "Run",
+    "应用程序.ListProviderCapabilities.executor": "Run",
+    "应用程序.ListProviders.executor": "Run",
+    "应用程序.PolicyFileCheck.executor": "Run",
+    "应用程序.PrecedenceDemo.executor": "Run",
+    "应用程序.chapter1.ListProviders.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\JavaCrypto\java-crypto\src" />
+      <recent name="C:\Projects\JavaCrypto\java-crypto\src\main\src\main" />
+      <recent name="C:\Projects\JavaCrypto\java-crypto\src\main" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.ListProviders">
+  <component name="RunManager" selected="应用程序.FIPSDemo">
     <configuration name="CBCExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter2.CBCExample" />
       <module name="general" />
@@ -152,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.FIPSDemo" />
         <item itemvalue="应用程序.ListProviders" />
         <item itemvalue="应用程序.KEMSExample" />
         <item itemvalue="应用程序.KeyConfExample" />
         <item itemvalue="应用程序.CBCExample" />
-        <item itemvalue="应用程序.FIPSDemo" />
       </list>
     </recent_temporary>
   </component>

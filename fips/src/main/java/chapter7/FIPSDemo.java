@@ -9,7 +9,7 @@ import org.bouncycastle.jcajce.provider.BouncyCastleFipsProvider;
 
 public class FIPSDemo {
     public static void main(String[] args) throws Exception {
-        Security.addProvider(new BouncyCastleFipsProvider());
+       // Security.addProvider(new BouncyCastleFipsProvider());
 
         // 创建SHA-256哈希算法实例
         MessageDigest digest = MessageDigest.getInstance("SHA-256", "BCFIPS");
